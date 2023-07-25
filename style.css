@@ -1,0 +1,313 @@
+*{
+    padding:0;
+    margin:0 auto;
+	box-sizing:border-box;
+ }
+ .container{
+	width:90%;
+    margin:0 auto;	
+ }
+ .row{
+	 display:flex;
+	 flex-wrap:wrap;
+	 
+	 
+ }
+  .row1{
+	 display:flex;
+	 flex-wrap:wrap;
+	 
+	 
+ }
+  .row2{
+	 display:flex;
+	 flex-wrap:wrap;
+	 
+	 
+ }
+ .col-1{
+	 
+	 width:8.33%;
+	 padding:0 15px;
+ }
+ .col-2{
+	 
+	 width:16.66%;
+	 padding:0 15px;
+ }
+ .col-3{
+	 
+	 width:25%;
+	 padding:0 15px;
+	
+ }
+ .col-4{
+	 
+	 width:33.33%;
+	 padding:0 15px;
+ }
+ .col-5{
+	 
+	 width:41.67%;
+	 padding:0 15px;
+ }
+ .col-6{
+	 
+	 width:50%;
+	 padding:0 15px;
+ }
+ .col-7{
+	 
+	 width:58.33%;
+	 padding:0 15px;
+ }
+ .col-8{
+	 
+	 width:66.66%;
+	 padding:0 15px;
+ }
+ .col-9{
+	 
+	 width:75%;
+	 padding:0 15px;
+ }
+ .col-10{
+	 
+	 width:83.33%;
+	 padding:0 15px;
+ }
+ .col-11{
+	 
+	 width:91.66%;
+	 padding:0 15px;
+ }
+ .col-12{
+	 
+	 width:100%;
+	 padding:0 15px;
+ }
+.aa{
+	 background-color:black;
+	 height:80px ;
+ }
+.bb{
+	 height:80px;
+	 background-color:black;
+ }
+.headi{
+	padding:20px 0;
+}
+#multi{
+	padding:100px;
+	background-color:black;
+	margin:20px;
+	
+}	
+
+.cc{
+	background-color:white;
+	padding:150px 0;
+	margin-right:1px;
+	
+	
+}
+
+#about{
+	background-color:white;
+	margin:30px 0;
+}
+.ee{
+	background-color:black;
+	padding:40%;
+	margin:30px;
+}
+
+h1{
+	font-size:50px;
+	margin:30px;
+}
+#icon{
+	background-color:black;
+	margin:3px;
+	padding:30px 0;
+}
+.gg{
+	background-color:white;
+	padding:100px;
+	margin-bottom:30px;
+	
+}
+
+#Multi{
+	background-color:white;
+	margin:2px;
+	padding:30px 0;
+
+}
+.kk{
+	background-color:black;
+	padding:50%;
+	margin:30px;
+}	
+
+.mm{
+	background-color:black;
+	padding:15%;
+	margin:30px;
+}
+#service{
+	background-color:black;
+	margin:3px;
+	padding:120px 0;
+	/*display:flex;
+	flex-wrap:wrap;*/
+	color:white;
+	font-size:30px;
+	padding-right:30px;
+	position:relative;
+	
+}
+
+.vv{
+	background-color:white;
+	padding:30%;
+	margin:20px;
+}
+#testimonals{
+	background-color:white;
+	color:black;
+	padding:1px 0;
+	margin:3px;
+	
+}
+
+.op{
+	background-color:black;
+	padding:30%;
+	margin:30px;
+	
+}
+h1{
+	background-color:black;
+}
+#box{
+	background-color:black;
+	padding:60px 0;
+	margin:60px;
+}
+.zz{
+	background-color:black;
+	padding:60px;
+}
+#check{
+	background-color:white;
+	padding:1px 0;
+	margin:0 3px;
+}
+.uu{
+	background-color:black;
+    padding:30%;
+	margin:30px;
+}
+
+#team{
+	background-color:black;
+	padding:20px 0;
+	padding-top:20px;
+	margin:3px 3px;
+}
+h1{
+	color:white;
+	
+}
+
+.g{
+	background-color:white;
+	padding:40%;
+	margin:30px;
+
+}
+
+
+#pricing{
+	background-color:white;
+	padding:50px;
+	margin:2px;
+}
+.card{
+	background-color:black;
+    padding:90px;
+	margin-bottom:30px;
+}
+h1{
+	color:black;
+}
+#faq{
+	background-color:black;
+	padding:100px;
+	margin:3px;
+	padding-top:20px;
+}
+h1{
+	color:white;
+}
+.ask{
+	background-color:white;
+	padding:40px;
+	padding-left:100%;
+	margin-bottom:30px;
+
+}
+#contact{
+	background-color:white;
+	padding:20px 0;
+  
+}
+.contact1{
+	background-color:black;
+	padding:40px 0;
+	margin-top:40px;
+	height:300px;
+
+	
+}
+
+.contact3{
+	background-color:black;
+	padding:50px;
+	margin-top:40px;
+	height:250px;
+
+	
+	
+}
+.contact4{
+	
+	background-color:black;
+	padding:100px;
+	height:94%;
+	margin-bottom:30px;
+	margin-top:5px;
+
+	
+}
+#card{
+	background-color:black;
+	padding:20px 0;
+}
+
+.content6{
+	background-color:white;
+	padding:40px 0;
+	margin-top:40px;
+	height:300px;
+
+}
+.content8{
+	background-color:white;
+	padding:40px 0;
+	margin-top:40px;
+	height:300px;
+	margin-bottom:30px;
+
+}
